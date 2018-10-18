@@ -1,4 +1,4 @@
-# Ionic 3 Native Google Maps & Tabs Starter
+# Ionic 4 Native Google Maps
 
 [![N|Solid](https://www.ning.com/ning3help/wp-content/uploads/2013/07/donate-button.png)](https://paypal.me/MariusBolik)
 
